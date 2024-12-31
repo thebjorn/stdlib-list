@@ -84,6 +84,7 @@ _warnings
 _weakref
 _weakrefset
 _winapi
+_xxsubinterpreters
 _zoneinfo
 abc
 aifc
@@ -731,6 +732,9 @@ mimetypes
 mmap
 modulefinder
 msilib
+msilib.schema
+msilib.sequence
+msilib.text
 msvcrt
 multiprocessing
 multiprocessing.connection
