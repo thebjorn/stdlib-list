@@ -136,7 +136,6 @@ binascii
 bisect
 builtins
 bz2
-cProfile
 calendar
 cgi
 cgitb
@@ -160,6 +159,7 @@ contextlib
 contextvars
 copy
 copyreg
+cProfile
 crypt
 csv
 ctypes
@@ -993,18 +993,18 @@ wsgiref.validate
 xdrlib
 xml
 xml.dom
-xml.dom.NodeFilter
 xml.dom.domreg
 xml.dom.expatbuilder
 xml.dom.minicompat
 xml.dom.minidom
+xml.dom.NodeFilter
 xml.dom.pulldom
 xml.dom.xmlbuilder
 xml.etree
+xml.etree.cElementTree
 xml.etree.ElementInclude
 xml.etree.ElementPath
 xml.etree.ElementTree
-xml.etree.cElementTree
 xml.parsers
 xml.parsers.expat
 xml.sax
