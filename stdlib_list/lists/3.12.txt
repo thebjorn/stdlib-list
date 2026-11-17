@@ -86,6 +86,9 @@ _warnings
 _weakref
 _weakrefset
 _winapi
+_wmi
+_xxinterpchannels
+_xxsubinterpreters
 _zoneinfo
 abc
 aifc
@@ -616,6 +619,9 @@ mimetypes
 mmap
 modulefinder
 msilib
+msilib.schema
+msilib.sequence
+msilib.text
 msvcrt
 multiprocessing
 multiprocessing.connection
@@ -844,6 +850,7 @@ xml.sax.xmlreader
 xmlrpc
 xmlrpc.client
 xmlrpc.server
+xxsubtype
 zipapp
 zipfile
 zipfile.__main__
